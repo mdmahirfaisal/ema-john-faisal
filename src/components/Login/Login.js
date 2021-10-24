@@ -30,6 +30,7 @@ const Login = () => {
                 </form>
                 <p>new to ema-john? <Link to="/register">Create Account</Link></p>
                 <div>-------or----------</div>
+                <div>-------or----------</div>
                 <button
                     className="btn-regular"
                     onClick={handleGoogleLogin}
